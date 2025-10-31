@@ -5,7 +5,7 @@ It provides a clean, modular implementation for M-Pesa payments in Django-based 
 
 ---
 
-## 🚀 Features
+## Features
 
 - Automatic OAuth Access Token generation
 - **STK Push** payment initiation
