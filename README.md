@@ -220,4 +220,4 @@ MIT License
 
 **Austin Musuya**  
 Backend Developer | AI & Payment Systems Enthusiast  
-🔗 [https://austinmusunya.dev](https://austinmusunya.dev)
+🔗 [https://austinmusuya.dev](https://austinmusuya.dev)
